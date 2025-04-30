@@ -1,0 +1,142 @@
+[
+    {
+        "ID": "1",
+        "Name (English)": "Popcorn",
+        "Name (Spanish)": "Palomitas",
+        "Price": "$23.00",
+        "Image": "palomitas.png"
+    },
+    {
+        "ID": "2",
+        "Name (English)": "Soda",
+        "Name (Spanish)": "Refresco",
+        "Price": "$25.00",
+        "Image": "refresco.png"
+    },
+    {
+        "ID": "3",
+        "Name (English)": "Hot Dog",
+        "Name (Spanish)": "Hot Dog",
+        "Price": "$30.00",
+        "Image": "hotdog.png"
+    },
+    {
+        "ID": "4",
+        "Name (English)": "Nachos",
+        "Name (Spanish)": "Nachos",
+        "Price": "$35.00",
+        "Image": "nachos.png"
+    },
+    {
+        "ID": "5",
+        "Name (English)": "Burger",
+        "Name (Spanish)": "Hamburguesa",
+        "Price": "$40.00",
+        "Image": "hamburguesa.png"
+    },
+    {
+        "ID": "6",
+        "Name (English)": "Fries",
+        "Name (Spanish)": "Papas",
+        "Price": "$20.00",
+        "Image": "papas.png"
+    },
+    {
+        "ID": "7",
+        "Name (English)": "Lollipop",
+        "Name (Spanish)": "Paleta",
+        "Price": "$15.00",
+        "Image": "paleta.png"
+    },
+    {
+        "ID": "8",
+        "Name (English)": "Chocolate",
+        "Name (Spanish)": "Chocolate",
+        "Price": "$10.00",
+        "Image": "chocolate.png"
+    },
+    {
+        "ID": "9",
+        "Name (English)": "Gummies",
+        "Name (Spanish)": "Gomitas",
+        "Price": "$8.00",
+        "Image": "gomitas.png"
+    },
+    {
+        "ID": "10",
+        "Name (English)": "Pork Rinds",
+        "Name (Spanish)": "Chicharrones",
+        "Price": "$5.00",
+        "Image": "chicharrones.png"
+    },
+    {
+        "ID": "11",
+        "Name (English)": "Water",
+        "Name (Spanish)": "Agua",
+        "Price": "$12.00",
+        "Image": "agua.png"
+    },
+    {
+        "ID": "12",
+        "Name (English)": "Coffee",
+        "Name (Spanish)": "Café",
+        "Price": "$18.00",
+        "Image": "cafe.png"
+    },
+    {
+        "ID": "13",
+        "Name (English)": "Iced Tea",
+        "Name (Spanish)": "Té Helado",
+        "Price": "$15.00",
+        "Image": "te_helado.png"
+    },
+    {
+        "ID": "14",
+        "Name (English)": "Donuts",
+        "Name (Spanish)": "Donas",
+        "Price": "$22.00",
+        "Image": "donas.png"
+    },
+    {
+        "ID": "15",
+        "Name (English)": "Pizza",
+        "Name (Spanish)": "Pizza",
+        "Price": "$45.00",
+        "Image": "pizza.png"
+    },
+    {
+        "ID": "16",
+        "Name (English)": "Sandwich",
+        "Name (Spanish)": "Sándwich",
+        "Price": "$32.00",
+        "Image": "sandwich.png"
+    },
+    {
+        "ID": "17",
+        "Name (English)": "Brownie",
+        "Name (Spanish)": "Brownie",
+        "Price": "$20.00",
+        "Image": "brownie.png"
+    },
+    {
+        "ID": "18",
+        "Name (English)": "Ice Cream",
+        "Name (Spanish)": "Helado",
+        "Price": "$25.00",
+        "Image": "helado.png"
+    },
+    {
+        "ID": "19",
+        "Name (English)": "Salad",
+        "Name (Spanish)": "Ensalada",
+        "Price": "$28.00",
+        "Image": "ensalada.png"
+    },
+    {
+        "ID": "20",
+        "Name (English)": "Apple",
+        "Name (Spanish)": "Manzana",
+        "Price": "$10.00",
+        "Image": "manzana.png"
+    }
+]
